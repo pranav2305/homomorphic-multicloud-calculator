@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import { add, multiply, test } from "./utils";
 import Calculator from "./components/Calculator";
 import InfoAboutApp from "./components/InfoAboutApp";
 import './App.css';

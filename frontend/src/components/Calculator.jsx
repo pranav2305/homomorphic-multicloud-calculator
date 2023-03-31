@@ -1,7 +1,7 @@
 function Calculator() {
-  return (<>
-    
-  </>)
+  return (
+    <></>
+  );
 }
 
 export default Calculator;
