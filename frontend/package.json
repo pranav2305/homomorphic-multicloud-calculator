@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "big-integer": "^1.6.51",
+    "mathjs": "^11.7.0",
+    "paillier-bigint": "^3.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
